@@ -22,6 +22,10 @@ organisationsprinzipien
 anbindung an netz-adapter..outlet
 
 content pumpe
+- case mgmt system
+- knowledge base
+- monitored conversations
+- nachnutzung: reporting
 
 feedback routing
 
