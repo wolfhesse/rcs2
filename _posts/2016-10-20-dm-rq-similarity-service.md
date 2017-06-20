@@ -6,7 +6,7 @@ post_date: 2016-10-20 15:32:42
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2016/10/20/dm-rq-similarity-service/
+  http://wolfspool.at/wprcs2/2016/10/20/dm-rq-similarity-service/
 published: true
 ---
 :det stage

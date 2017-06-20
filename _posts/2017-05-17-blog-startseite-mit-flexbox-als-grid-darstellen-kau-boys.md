@@ -8,7 +8,7 @@ post_date: 2017-05-17 16:11:28
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2017/05/17/blog-startseite-mit-flexbox-als-grid-darstellen-kau-boys/
+  http://wolfspool.at/wprcs2/2017/05/17/blog-startseite-mit-flexbox-als-grid-darstellen-kau-boys/
 published: true
 avada_post_views_count:
   - "0"

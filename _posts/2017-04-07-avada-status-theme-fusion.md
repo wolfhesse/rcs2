@@ -6,7 +6,7 @@ post_date: 2017-04-07 15:06:09
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2017/04/07/avada-status-theme-fusion/
+  http://wolfspool.at/wprcs2/2017/04/07/avada-status-theme-fusion/
 published: true
 avada_post_views_count:
   - "0"

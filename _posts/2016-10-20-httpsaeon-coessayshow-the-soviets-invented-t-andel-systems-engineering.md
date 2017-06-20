@@ -6,7 +6,7 @@ post_date: 2016-10-20 16:46:33
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2016/10/20/httpsaeon-coessayshow-the-soviets-invented-t-andel-systems-engineering/
+  http://wolfspool.at/wprcs2/2016/10/20/httpsaeon-coessayshow-the-soviets-invented-t-andel-systems-engineering/
 published: true
 ---
 <blockquote>Andel Systems Engineering, Wien. Gefällt 7 Mal · 2 Personen sprechen darüber. Computer/Technik</blockquote>

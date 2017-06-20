@@ -6,7 +6,7 @@ post_date: 2016-10-20 15:24:34
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2016/10/20/dm-rq-arch-marketing-system-pst/
+  http://wolfspool.at/wprcs2/2016/10/20/dm-rq-arch-marketing-system-pst/
 published: true
 ---
 :legal;; asecms s2l1 .rq

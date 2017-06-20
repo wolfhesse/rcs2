@@ -7,7 +7,9 @@ author: rogera
 post_date: 2017-06-12 10:40:52
 post_excerpt: ""
 layout: post
-permalink: 'http://wp.wolfspool.chickenkiller.com/wprcs2/2017/06/12/ansible-exampleslanguage_features-at-master-%c2%b7-ansibleansible-examples/'
+permalink: 'http://wolfspool.at/wprcs2/2017/06/12/ansible-exampleslanguage_features-at-master-%c2%b7-ansibleansible-examples/'
 published: true
+avada_post_views_count:
+  - "0"
 ---
 <p>Quelle: <em><a href="https://github.com/ansible/ansible-examples/tree/master/language_features">ansible-examples/language_features at master · ansible/ansible-examples</a></em></p>

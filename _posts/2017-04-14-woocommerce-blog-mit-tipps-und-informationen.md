@@ -8,7 +8,7 @@ post_date: 2017-04-14 11:37:26
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2017/04/14/woocommerce-blog-mit-tipps-und-informationen/
+  http://wolfspool.at/wprcs2/2017/04/14/woocommerce-blog-mit-tipps-und-informationen/
 published: true
 avada_post_views_count:
   - "0"

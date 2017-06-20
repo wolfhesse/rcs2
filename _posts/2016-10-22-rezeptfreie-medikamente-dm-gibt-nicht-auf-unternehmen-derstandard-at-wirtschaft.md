@@ -6,7 +6,7 @@ post_date: 2016-10-22 13:34:48
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2016/10/22/rezeptfreie-medikamente-dm-gibt-nicht-auf-unternehmen-derstandard-at-wirtschaft/
+  http://wolfspool.at/wprcs2/2016/10/22/rezeptfreie-medikamente-dm-gibt-nicht-auf-unternehmen-derstandard-at-wirtschaft/
 published: true
 ---
 <blockquote>Verfassungsrichter entscheiden, ob das Apothekenmonopol auf nicht verschreibungspflichtige Arzneimittel hält</blockquote>

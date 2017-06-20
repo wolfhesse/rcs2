@@ -6,7 +6,7 @@ post_date: 2017-05-17 23:34:05
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2017/05/17/less-vs-sass-google-search/
+  http://wolfspool.at/wprcs2/2017/05/17/less-vs-sass-google-search/
 published: true
 avada_post_views_count:
   - "2"

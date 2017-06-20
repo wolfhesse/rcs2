@@ -6,7 +6,7 @@ post_date: 2016-11-08 15:26:17
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2016/11/08/robert-c-martin-clean-architecture-and-design-youtube/
+  http://wolfspool.at/wprcs2/2016/11/08/robert-c-martin-clean-architecture-and-design-youtube/
 published: true
 avada_post_views_count:
   - "0"

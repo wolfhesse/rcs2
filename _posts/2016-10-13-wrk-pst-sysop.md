@@ -6,7 +6,7 @@ post_date: 2016-10-13 07:56:14
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2016/10/13/wrk-pst-sysop/
+  http://wolfspool.at/wprcs2/2016/10/13/wrk-pst-sysop/
 published: true
 ---
 als organizer asecms

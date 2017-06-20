@@ -6,7 +6,7 @@ post_date: 2016-10-20 15:20:14
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2016/10/20/asecms-rollover-rq-pst-cmd/
+  http://wolfspool.at/wprcs2/2016/10/20/asecms-rollover-rq-pst-cmd/
 published: true
 ---
 .log .here

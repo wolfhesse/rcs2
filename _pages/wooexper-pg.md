@@ -6,7 +6,7 @@ post_date: 2017-01-12 05:34:46
 post_excerpt: ""
 layout: page
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/rcs2-start/wooexper-pg/
+  http://wolfspool.at/wprcs2/rcs2-start/wooexper-pg/
 published: true
 sharing_disabled:
   - 'a:1:{i:0;s:1:"1";}'

@@ -6,7 +6,7 @@ post_date: 2017-06-14 04:01:05
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2017/06/14/ip-dev-strat-zulu/
+  http://wolfspool.at/wprcs2/2017/06/14/ip-dev-strat-zulu/
 published: true
 fusion_builder_status:
   - ""

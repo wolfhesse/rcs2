@@ -6,7 +6,7 @@ post_date: 2016-10-20 15:31:17
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2016/10/20/matthias-noback-hexagonal-architecture-message-oriented-software-design-youtube/
+  http://wolfspool.at/wprcs2/2016/10/20/matthias-noback-hexagonal-architecture-message-oriented-software-design-youtube/
 published: true
 avada_post_views_count:
   - "0"

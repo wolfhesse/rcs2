@@ -6,10 +6,10 @@ post_date: 2017-04-14 11:38:11
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2017/04/14/simple-custom-css/
+  http://wolfspool.at/wprcs2/2017/04/14/simple-custom-css/
 published: true
 avada_post_views_count:
-  - "2"
+  - "3"
 fusion_builder_status:
   - ""
 sbg_selected_sidebar:

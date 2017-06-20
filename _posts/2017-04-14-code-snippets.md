@@ -6,7 +6,7 @@ post_date: 2017-04-14 11:38:03
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2017/04/14/code-snippets/
+  http://wolfspool.at/wprcs2/2017/04/14/code-snippets/
 published: true
 avada_post_views_count:
   - "1"

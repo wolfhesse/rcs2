@@ -8,7 +8,7 @@ post_date: 2016-10-20 15:18:51
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2016/10/20/dependency-injection-inversion-of-control-arch-pst/
+  http://wolfspool.at/wprcs2/2016/10/20/dependency-injection-inversion-of-control-arch-pst/
 published: true
 ---
 oper mod :given

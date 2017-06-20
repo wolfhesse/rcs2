@@ -6,7 +6,7 @@ post_date: 2016-10-29 16:34:53
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2016/10/29/company-cortical-io/
+  http://wolfspool.at/wprcs2/2016/10/29/company-cortical-io/
 published: true
 ---
 <blockquote>Jeff Hawkins</blockquote>

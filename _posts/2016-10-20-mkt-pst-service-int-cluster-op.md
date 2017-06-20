@@ -6,7 +6,7 @@ post_date: 2016-10-20 20:36:50
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2016/10/20/mkt-pst-service-int-cluster-op/
+  http://wolfspool.at/wprcs2/2016/10/20/mkt-pst-service-int-cluster-op/
 published: true
 ---
 setup, linkage

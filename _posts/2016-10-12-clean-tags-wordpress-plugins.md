@@ -6,7 +6,7 @@ post_date: 2016-10-12 16:38:19
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2016/10/12/clean-tags-wordpress-plugins/
+  http://wolfspool.at/wprcs2/2016/10/12/clean-tags-wordpress-plugins/
 published: true
 ---
 strat .. support tools to streamline wp instance
