@@ -1,0 +1,12 @@
+---
+ID: 46
+post_title: test-woo-carousel
+author: rogera
+post_date: 2017-02-08 10:07:06
+post_excerpt: ""
+layout: post
+permalink: >
+  http://wolfspool.at/wprcs2/2017/02/08/test-woo-carousel/
+published: true
+---
+[fusion_builder_container hundred_percent="no" equal_height_columns="no" menu_anchor="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" enable_mobile="no" parallax_speed="0.3" video_mp4="" video_webm="" video_ogv="" video_url="" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_color="" overlay_opacity="0.5" video_preview_image="" border_size="" border_color="" border_style="solid" margin_top="" margin_bottom="" padding_top="20px" padding_right="" padding_bottom="20px" padding_left=""][fusion_builder_row][fusion_builder_column type="3_4" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="undefined" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][fusion_products_slider picture_size="fixed" cat_slug="" number_posts="5" carousel_layout="title_below_image" autoplay="yes" columns="5" column_spacing="" scroll_items="" show_nav="yes" mouse_scroll="no" show_cats="yes" show_price="yes" show_buttons="yes" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" /][/fusion_builder_column][fusion_builder_column type="1_4" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="undefined" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no"][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container]
